@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adity/Desktop/Air_quality/project/air_quality_transform/air_quality_source_pipeline/mlruns/417773467162490529/c66bbfdff37243c19fad15601b7516c6/artifacts
+end_time: 1728232072046
+entry_point_name: ''
+experiment_id: '417773467162490529'
+lifecycle_stage: active
+run_id: c66bbfdff37243c19fad15601b7516c6
+run_name: learned-pig-176
+run_uuid: c66bbfdff37243c19fad15601b7516c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728232033551
+status: 3
+tags: []
+user_id: adity

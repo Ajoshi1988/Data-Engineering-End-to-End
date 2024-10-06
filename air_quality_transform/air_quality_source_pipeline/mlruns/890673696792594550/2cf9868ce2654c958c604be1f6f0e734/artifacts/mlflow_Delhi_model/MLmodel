@@ -1,0 +1,20 @@
+artifact_path: mlflow_Delhi_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 2118
+model_uuid: 455357e947824d259ef416f9ba36c33f
+run_id: 2cf9868ce2654c958c604be1f6f0e734
+utc_time_created: '2024-10-06 17:28:52.240862'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adity/Desktop/Air_quality/project/air_quality_transform/air_quality_source_pipeline/mlruns/890673696792594550/1eaf8f6a224442908166eb7583837295/artifacts
+end_time: 1728232072279
+entry_point_name: ''
+experiment_id: '890673696792594550'
+lifecycle_stage: active
+run_id: 1eaf8f6a224442908166eb7583837295
+run_name: sedate-toad-48
+run_uuid: 1eaf8f6a224442908166eb7583837295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728232033551
+status: 3
+tags: []
+user_id: adity

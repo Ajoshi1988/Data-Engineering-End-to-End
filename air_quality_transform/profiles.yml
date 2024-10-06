@@ -1,0 +1,14 @@
+air_quality_transform:
+  outputs:
+    dev:
+      dbname: RAW
+      host: localhost
+      pass: postgres
+      port: 5432
+      schema: transformed
+      threads: 1
+      type: postgres
+      user: postgres
+  target: dev
+
+

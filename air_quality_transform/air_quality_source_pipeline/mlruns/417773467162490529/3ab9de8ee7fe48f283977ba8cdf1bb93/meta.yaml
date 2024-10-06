@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adity/Desktop/Air_quality/project/air_quality_transform/air_quality_source_pipeline/mlruns/417773467162490529/3ab9de8ee7fe48f283977ba8cdf1bb93/artifacts
+end_time: 1728235781821
+entry_point_name: ''
+experiment_id: '417773467162490529'
+lifecycle_stage: active
+run_id: 3ab9de8ee7fe48f283977ba8cdf1bb93
+run_name: beautiful-moth-478
+run_uuid: 3ab9de8ee7fe48f283977ba8cdf1bb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728235731981
+status: 3
+tags: []
+user_id: adity

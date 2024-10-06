@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adity/Desktop/Air_quality/project/air_quality_transform/air_quality_source_pipeline/mlruns/890673696792594550/2cf9868ce2654c958c604be1f6f0e734/artifacts
+end_time: 1728235783573
+entry_point_name: ''
+experiment_id: '890673696792594550'
+lifecycle_stage: active
+run_id: 2cf9868ce2654c958c604be1f6f0e734
+run_name: loud-shad-959
+run_uuid: 2cf9868ce2654c958c604be1f6f0e734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728235732080
+status: 3
+tags: []
+user_id: adity
